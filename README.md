@@ -1,3 +1,8 @@
+PROJECT: HOW DIFFERENT AI SOLVE CODING PROBLEMS
+
+- Our project holds significant importance as it shows the power of artificial intelligence to generate code, even for those with limited coding knowledge. Our goal is to impact individuals who have the same curiosity for simplifying everyday tasks and instead of boring, being an enjoyable experience. Trevor’s focus was developing a code that compares the prices of items across different supermarkets. On the other hand, I worked on a code that allows users to input grades, where the AI computes the average and assigns corresponding letter grades.
+
+
 ABSTRACT:
 
 Researching about how different AI programs solve equivalent coding problems, comparing the code, the AI functionality, efficiency, and how user-friendly they are.
